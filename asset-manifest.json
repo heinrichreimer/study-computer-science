@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/study-computer-science/static/css/main.607c36bc.css",
-    "main.js": "/study-computer-science/static/js/main.2d2b0ce1.js",
+    "main.js": "/study-computer-science/static/js/main.e5b402b2.js",
     "static/js/787.66b7a88a.chunk.js": "/study-computer-science/static/js/787.66b7a88a.chunk.js",
+    "static/media/mlu.jpg": "/study-computer-science/static/media/mlu.62151626fdba9fde31c2.jpg",
+    "static/media/hsa.jpg": "/study-computer-science/static/media/hsa.68b2987985621bce6006.jpg",
     "index.html": "/study-computer-science/index.html",
     "main.607c36bc.css.map": "/study-computer-science/static/css/main.607c36bc.css.map",
-    "main.2d2b0ce1.js.map": "/study-computer-science/static/js/main.2d2b0ce1.js.map",
+    "main.e5b402b2.js.map": "/study-computer-science/static/js/main.e5b402b2.js.map",
     "787.66b7a88a.chunk.js.map": "/study-computer-science/static/js/787.66b7a88a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.607c36bc.css",
-    "static/js/main.2d2b0ce1.js"
+    "static/js/main.e5b402b2.js"
   ]
 }
