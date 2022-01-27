@@ -1,41 +1,15 @@
 {
   "files": {
-    "main.css": "/study-computer-science/static/css/main.455c54dd.css",
-    "main.js": "/study-computer-science/static/js/main.3e4028fe.js",
-    "reactPlayerYouTube.js": "/study-computer-science/static/js/reactPlayerYouTube.e7f80316.chunk.js",
-    "reactPlayerSoundCloud.js": "/study-computer-science/static/js/reactPlayerSoundCloud.65317859.chunk.js",
-    "reactPlayerVimeo.js": "/study-computer-science/static/js/reactPlayerVimeo.f4a61cc5.chunk.js",
-    "reactPlayerFacebook.js": "/study-computer-science/static/js/reactPlayerFacebook.c912c279.chunk.js",
-    "reactPlayerStreamable.js": "/study-computer-science/static/js/reactPlayerStreamable.c2cbef11.chunk.js",
-    "reactPlayerWistia.js": "/study-computer-science/static/js/reactPlayerWistia.af8cb60e.chunk.js",
-    "reactPlayerTwitch.js": "/study-computer-science/static/js/reactPlayerTwitch.89729403.chunk.js",
-    "reactPlayerDailyMotion.js": "/study-computer-science/static/js/reactPlayerDailyMotion.1212fd10.chunk.js",
-    "reactPlayerMixcloud.js": "/study-computer-science/static/js/reactPlayerMixcloud.5e930c02.chunk.js",
-    "reactPlayerVidyard.js": "/study-computer-science/static/js/reactPlayerVidyard.56555897.chunk.js",
-    "reactPlayerKaltura.js": "/study-computer-science/static/js/reactPlayerKaltura.51dfe8db.chunk.js",
-    "reactPlayerFilePlayer.js": "/study-computer-science/static/js/reactPlayerFilePlayer.695275ed.chunk.js",
-    "reactPlayerPreview.js": "/study-computer-science/static/js/reactPlayerPreview.d3116d46.chunk.js",
+    "main.css": "/study-computer-science/static/css/main.607c36bc.css",
+    "main.js": "/study-computer-science/static/js/main.2d2b0ce1.js",
     "static/js/787.66b7a88a.chunk.js": "/study-computer-science/static/js/787.66b7a88a.chunk.js",
     "index.html": "/study-computer-science/index.html",
-    "main.455c54dd.css.map": "/study-computer-science/static/css/main.455c54dd.css.map",
-    "main.3e4028fe.js.map": "/study-computer-science/static/js/main.3e4028fe.js.map",
-    "reactPlayerYouTube.e7f80316.chunk.js.map": "/study-computer-science/static/js/reactPlayerYouTube.e7f80316.chunk.js.map",
-    "reactPlayerSoundCloud.65317859.chunk.js.map": "/study-computer-science/static/js/reactPlayerSoundCloud.65317859.chunk.js.map",
-    "reactPlayerVimeo.f4a61cc5.chunk.js.map": "/study-computer-science/static/js/reactPlayerVimeo.f4a61cc5.chunk.js.map",
-    "reactPlayerFacebook.c912c279.chunk.js.map": "/study-computer-science/static/js/reactPlayerFacebook.c912c279.chunk.js.map",
-    "reactPlayerStreamable.c2cbef11.chunk.js.map": "/study-computer-science/static/js/reactPlayerStreamable.c2cbef11.chunk.js.map",
-    "reactPlayerWistia.af8cb60e.chunk.js.map": "/study-computer-science/static/js/reactPlayerWistia.af8cb60e.chunk.js.map",
-    "reactPlayerTwitch.89729403.chunk.js.map": "/study-computer-science/static/js/reactPlayerTwitch.89729403.chunk.js.map",
-    "reactPlayerDailyMotion.1212fd10.chunk.js.map": "/study-computer-science/static/js/reactPlayerDailyMotion.1212fd10.chunk.js.map",
-    "reactPlayerMixcloud.5e930c02.chunk.js.map": "/study-computer-science/static/js/reactPlayerMixcloud.5e930c02.chunk.js.map",
-    "reactPlayerVidyard.56555897.chunk.js.map": "/study-computer-science/static/js/reactPlayerVidyard.56555897.chunk.js.map",
-    "reactPlayerKaltura.51dfe8db.chunk.js.map": "/study-computer-science/static/js/reactPlayerKaltura.51dfe8db.chunk.js.map",
-    "reactPlayerFilePlayer.695275ed.chunk.js.map": "/study-computer-science/static/js/reactPlayerFilePlayer.695275ed.chunk.js.map",
-    "reactPlayerPreview.d3116d46.chunk.js.map": "/study-computer-science/static/js/reactPlayerPreview.d3116d46.chunk.js.map",
+    "main.607c36bc.css.map": "/study-computer-science/static/css/main.607c36bc.css.map",
+    "main.2d2b0ce1.js.map": "/study-computer-science/static/js/main.2d2b0ce1.js.map",
     "787.66b7a88a.chunk.js.map": "/study-computer-science/static/js/787.66b7a88a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.455c54dd.css",
-    "static/js/main.3e4028fe.js"
+    "static/css/main.607c36bc.css",
+    "static/js/main.2d2b0ce1.js"
   ]
 }
