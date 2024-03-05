@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.607c36bc.css",
-    "main.js": "/static/js/main.ffe15904.js",
-    "static/js/787.66b7a88a.chunk.js": "/static/js/787.66b7a88a.chunk.js",
+    "main.css": "/static/css/main.35b9da55.css",
+    "main.js": "/static/js/main.ae0ed21a.js",
+    "static/js/453.91a316b9.chunk.js": "/static/js/453.91a316b9.chunk.js",
     "static/media/mlu.jpg": "/static/media/mlu.62151626fdba9fde31c2.jpg",
     "static/media/hsa.jpg": "/static/media/hsa.68b2987985621bce6006.jpg",
     "index.html": "/index.html",
-    "static/media/study-computer-science-4k.mp4": "/static/media/study-computer-science-4k.fedac795c0f245996594.mp4",
-    "main.607c36bc.css.map": "/static/css/main.607c36bc.css.map",
-    "main.ffe15904.js.map": "/static/js/main.ffe15904.js.map",
-    "787.66b7a88a.chunk.js.map": "/static/js/787.66b7a88a.chunk.js.map"
+    "static/media/study-computer-science-4k.webm": "/static/media/study-computer-science-4k.2aca12d647ab4dc2615e.webm",
+    "main.35b9da55.css.map": "/static/css/main.35b9da55.css.map",
+    "main.ae0ed21a.js.map": "/static/js/main.ae0ed21a.js.map",
+    "453.91a316b9.chunk.js.map": "/static/js/453.91a316b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.607c36bc.css",
-    "static/js/main.ffe15904.js"
+    "static/css/main.35b9da55.css",
+    "static/js/main.ae0ed21a.js"
   ]
 }
