@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.35b9da55.css",
-    "main.js": "/static/js/main.f9b08800.js",
-    "static/js/453.91a316b9.chunk.js": "/static/js/453.91a316b9.chunk.js",
+    "main.js": "/static/js/main.4e0ed622.js",
+    "static/js/488.e6890ff4.chunk.js": "/static/js/488.e6890ff4.chunk.js",
     "static/media/mlu.jpg": "/static/media/mlu.62151626fdba9fde31c2.jpg",
     "static/media/hsa.jpg": "/static/media/hsa.68b2987985621bce6006.jpg",
     "index.html": "/index.html",
     "static/media/study-computer-science-4k.webm": "/static/media/study-computer-science-4k.2aca12d647ab4dc2615e.webm",
     "main.35b9da55.css.map": "/static/css/main.35b9da55.css.map",
-    "main.f9b08800.js.map": "/static/js/main.f9b08800.js.map",
-    "453.91a316b9.chunk.js.map": "/static/js/453.91a316b9.chunk.js.map"
+    "main.4e0ed622.js.map": "/static/js/main.4e0ed622.js.map",
+    "488.e6890ff4.chunk.js.map": "/static/js/488.e6890ff4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35b9da55.css",
-    "static/js/main.f9b08800.js"
+    "static/js/main.4e0ed622.js"
   ]
 }
